@@ -1,2 +1,2 @@
 # Recipe-Task1-EcodeCamp
- Discover delicious dessert recipes with Recipe Delight! From the syrupy Gulab Jamun to rich Barfi and crispy Jalebi, our easy, step-by-step guides make it simple to create these mouth-watering treats at home. Perfect for all dessert lovers!
+For delicious dessert recipes, visit Recipe Delight! From globally loved Gulab Jamun to rich Barfi and crispy Jalebi, our guides bring the best step-by-step recipes for you. Great for all the dessert addicts out there!
